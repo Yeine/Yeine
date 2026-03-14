@@ -1,4 +1,4 @@
-Full-stack developer & systems architect. Building and maintaining complete systems, solo, since 2011.
+Full-stack developer & systems architect. Building and maintaining complete systems since 2011.
 
 Currently split between the [Centre d'études nordiques](https://www.cen.ulaval.ca/) (Université Laval) and independent practice.
 
